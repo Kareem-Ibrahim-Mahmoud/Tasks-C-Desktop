@@ -1,0 +1,11 @@
+D:\c sharp prog\prodesk21\prodesk21\bin\Debug\prodesk21.exe.config
+D:\c sharp prog\prodesk21\prodesk21\bin\Debug\prodesk21.exe
+D:\c sharp prog\prodesk21\prodesk21\bin\Debug\prodesk21.pdb
+D:\c sharp prog\prodesk21\prodesk21\obj\Debug\prodesk21.csproj.AssemblyReference.cache
+D:\c sharp prog\prodesk21\prodesk21\obj\Debug\prodesk21.csproj.SuggestedBindingRedirects.cache
+D:\c sharp prog\prodesk21\prodesk21\obj\Debug\prodesk21.Form1.resources
+D:\c sharp prog\prodesk21\prodesk21\obj\Debug\prodesk21.Properties.Resources.resources
+D:\c sharp prog\prodesk21\prodesk21\obj\Debug\prodesk21.csproj.GenerateResource.cache
+D:\c sharp prog\prodesk21\prodesk21\obj\Debug\prodesk21.csproj.CoreCompileInputs.cache
+D:\c sharp prog\prodesk21\prodesk21\obj\Debug\prodesk21.exe
+D:\c sharp prog\prodesk21\prodesk21\obj\Debug\prodesk21.pdb
